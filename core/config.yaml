@@ -1,0 +1,10 @@
+api:
+  title: ave-test-service
+  description: ""
+  version: 0.0.1
+  host: 0.0.0.0
+  port: 8888
+
+redis:
+  connection_url: redis://default:redis12345@redis:6379
+  max_connections: 10
